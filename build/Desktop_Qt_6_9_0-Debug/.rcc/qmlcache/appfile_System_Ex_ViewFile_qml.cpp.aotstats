@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 21
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 355,
+                        "durationMicroseconds": 632,
                         "errorMessage": "Cannot access value for name fileContentDisplayArea",
                         "functionName": "opacity",
                         "line": 50
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 302,
+                        "durationMicroseconds": 513,
                         "errorMessage": "Cannot access value for name fileContentDisplayArea",
                         "functionName": "opacity",
                         "line": 61
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 44,
                         "errorMessage": "Cannot access value for name fileEditor",
                         "functionName": "target",
                         "line": 68

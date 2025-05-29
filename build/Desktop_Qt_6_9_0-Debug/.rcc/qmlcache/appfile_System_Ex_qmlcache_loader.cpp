@@ -5,63 +5,63 @@
 #include <QtCore/qstring.h>
 
 namespace QmlCacheGeneratedCode {
-namespace _qt_qml_file_System_Ex_qml_About_qml { 
+namespace _qt_qml_file_System_Ex_About_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_Editor_qml { 
+namespace _qt_qml_file_System_Ex_Editor_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_FileList_qml { 
+namespace _qt_qml_file_System_Ex_FileList_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_Main_qml { 
+namespace _qt_qml_file_System_Ex_Main_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_MyMenu_qml { 
+namespace _qt_qml_file_System_Ex_MyMenu_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_MyMenuBar_qml { 
+namespace _qt_qml_file_System_Ex_MyMenuBar_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_Sidebar_qml { 
+namespace _qt_qml_file_System_Ex_Sidebar_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_ViewFile_qml { 
+namespace _qt_qml_file_System_Ex_ViewFile_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
-namespace _qt_qml_file_System_Ex_qml_WindowDragHandler_qml { 
+namespace _qt_qml_file_System_Ex_WindowDragHandler_qml { 
     extern const unsigned char qmlData[];
     extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
     const QQmlPrivate::CachedQmlUnit unit = {
@@ -82,15 +82,15 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 
 Registry::Registry() {
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/About.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_About_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/Editor.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_Editor_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/FileList.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_FileList_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_Main_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/MyMenu.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_MyMenu_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/MyMenuBar.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_MyMenuBar_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/Sidebar.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_Sidebar_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/ViewFile.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_ViewFile_qml::unit);
-    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/qml/WindowDragHandler.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_qml_WindowDragHandler_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/About.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_About_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/Editor.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_Editor_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/FileList.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_FileList_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/Main.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_Main_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/MyMenu.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_MyMenu_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/MyMenuBar.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_MyMenuBar_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/Sidebar.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_Sidebar_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/ViewFile.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_ViewFile_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/qt/qml/file_System_Ex/WindowDragHandler.qml"), &QmlCacheGeneratedCode::_qt_qml_file_System_Ex_WindowDragHandler_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 68,
                         "errorMessage": "Cannot access value for name dragWindow",
                         "functionName": "onActiveChanged",
                         "line": 13

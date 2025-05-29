@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 12,
-                        "durationMicroseconds": 129,
+                        "durationMicroseconds": 152,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 12,
-                        "durationMicroseconds": 123,
+                        "durationMicroseconds": 165,
                         "errorMessage": "",
                         "functionName": "flags",
                         "line": 13
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 71,
                         "errorMessage": "Cannot load property currentFilePath from .",
                         "functionName": "getInfoText",
                         "line": 15
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 42,
+                        "durationMicroseconds": 47,
                         "errorMessage": "",
                         "functionName": "dragWindow",
                         "line": 22
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 57,
+                        "durationMicroseconds": 65,
                         "errorMessage": "",
                         "functionName": "infoText",
                         "line": 23
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 68,
                         "errorMessage": "Cannot load property showLineNumbers from .",
                         "functionName": "text",
                         "line": 27
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 55,
                         "errorMessage": "Cannot load property showLineNumbers from .",
                         "functionName": "onTriggered",
                         "line": 30
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 54,
                         "errorMessage": "Cannot load property expandPath from .",
                         "functionName": "text",
                         "line": 33
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 43,
                         "errorMessage": "Cannot load property currentFilePath from .",
                         "functionName": "enabled",
                         "line": 35
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 45,
                         "errorMessage": "Cannot load property expandPath from .",
                         "functionName": "onTriggered",
                         "line": 36
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 77,
                         "errorMessage": "",
                         "functionName": "enabled",
                         "line": 40
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 22,
                         "errorMessage": "cannot convert from void to FileList::rootIndex with type QModelIndex",
                         "functionName": "onTriggered",
                         "line": 41
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 69,
                         "errorMessage": "",
                         "functionName": "onTriggered",
                         "line": 45
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 51,
                         "errorMessage": "",
                         "functionName": "shortcut",
                         "line": 46
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 30,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 58
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 32,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "dragWindow",
                         "line": 64
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 200,
+                        "durationMicroseconds": 209,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 76
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 150,
+                        "durationMicroseconds": 160,
                         "errorMessage": "Cannot access value for name navigationView",
                         "functionName": "opacity",
                         "line": 78
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 173,
+                        "durationMicroseconds": 169,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 77
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 90,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 88
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 52,
+                        "durationMicroseconds": 39,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 105

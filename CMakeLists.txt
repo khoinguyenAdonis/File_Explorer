@@ -17,15 +17,15 @@ qt_add_qml_module(appfile_System_Ex
     URI file_System_Ex
     VERSION 1.0
     QML_FILES
-        "qml/About.qml"
-        "qml/Editor.qml"
-        "qml/FileList.qml"
-        "qml/Main.qml"
-        "qml/MyMenu.qml"
-        "qml/MyMenuBar.qml"
-        "qml/Sidebar.qml"
-        "qml/ViewFile.qml"
-        "qml/WindowDragHandler.qml"
+        About.qml
+        Editor.qml
+        FileList.qml
+        Main.qml
+        MyMenu.qml
+        MyMenuBar.qml
+        Sidebar.qml
+        ViewFile.qml
+        WindowDragHandler.qml
 
     RESOURCES
         "icons/folder.png"
@@ -38,8 +38,8 @@ qt_add_qml_module(appfile_System_Ex
         "icons/paste.png"
         "icons/resize.svg"
         "icons/qt_logo.svg"
-        "icons/app_icon.svg"
         "icons/trash.png"
+        "icons/app_icon.png"
 
     SOURCES
         "Header/treemodel.h"

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 78,
                         "errorMessage": "",
                         "functionName": "text",
                         "line": 15
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 19365,
+                        "durationMicroseconds": 304,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 16
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 11
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 79,
+                        "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 12
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 24
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 37,
                         "errorMessage": "",
                         "functionName": "visible",
                         "line": 26
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 162,
+                        "durationMicroseconds": 89,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 27
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 21
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 22
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 161,
+                        "durationMicroseconds": 154,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 33
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 149,
+                        "durationMicroseconds": 101,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 39

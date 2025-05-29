@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 130,
+                        "durationMicroseconds": 124,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 20
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 50,
                         "errorMessage": "",
                         "functionName": "verticalAlignment",
                         "line": 21
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 63,
                         "errorMessage": "",
                         "functionName": "text",
                         "line": 23
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 81,
+                        "durationMicroseconds": 73,
                         "errorMessage": "",
                         "functionName": "font",
                         "line": 24
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 55,
+                        "durationMicroseconds": 53,
                         "errorMessage": "",
                         "functionName": "elide",
                         "line": 25
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 997,
+                        "durationMicroseconds": 434,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 26
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 103,
                         "errorMessage": "",
                         "functionName": "opacity",
                         "line": 27
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 144,
+                        "durationMicroseconds": 134,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 41
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 81,
+                        "durationMicroseconds": 73,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 38
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 61,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 39
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 50,
                         "errorMessage": "",
                         "functionName": "when",
                         "line": 44
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 42,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 100,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 46
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 55,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 58
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 68,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 61
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 69,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 62
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 52,
                         "errorMessage": "",
                         "functionName": "spacing",
                         "line": 73
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 54,
                         "errorMessage": "",
                         "functionName": "model",
                         "line": 78
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 55,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 77
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 66,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 87
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 57,
+                        "durationMicroseconds": 58,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 88
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 51,
+                        "durationMicroseconds": 53,
                         "errorMessage": "",
                         "functionName": "verticalAlignment",
                         "line": 89
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 65,
                         "errorMessage": "",
                         "functionName": "leftPadding",
                         "line": 90
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 221,
+                        "durationMicroseconds": 218,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 91
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 99
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 159,
+                        "durationMicroseconds": 153,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 113
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 39,
                         "errorMessage": "",
                         "functionName": "preferredWidth",
                         "line": 111
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 98,
                         "errorMessage": "",
                         "functionName": "onTapped",
                         "line": 119
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 116,
+                        "durationMicroseconds": 110,
                         "errorMessage": "",
                         "functionName": "onAction",
                         "line": 126
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 100,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 131
@@ -254,7 +254,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "onAction",
                         "line": 138
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 140
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 35,
-                        "durationMicroseconds": 440,
+                        "durationMicroseconds": 310,
                         "errorMessage": "Cannot load property hovered from (component in /home/khoi/Learn/Qt++/file_System_Ex/MyMenuBar.qml)::parent with type QQuickItem.",
                         "functionName": "color",
                         "line": 142
@@ -278,7 +278,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 142,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "onAction",
                         "line": 152
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 119,
+                        "durationMicroseconds": 102,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 155
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 57,
                         "errorMessage": "",
                         "functionName": "transformOrigin",
                         "line": 159
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 571,
+                        "durationMicroseconds": 301,
                         "errorMessage": "Cannot load property hovered from (component in /home/khoi/Learn/Qt++/file_System_Ex/MyMenuBar.qml)::parent with type QQuickItem.",
                         "functionName": "color",
                         "line": 160
@@ -310,7 +310,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 50,
+                        "durationMicroseconds": 41,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 154
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 57,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 164
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 51,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 165
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 54,
+                        "durationMicroseconds": 48,
                         "errorMessage": "Cannot load property color from (component in /home/khoi/Learn/Qt++/file_System_Ex/MyMenuBar.qml)::parent with type QQuickItem.",
                         "functionName": "color",
                         "line": 168
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 38,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 163
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 138,
+                        "durationMicroseconds": 124,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 176
@@ -366,7 +366,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 48,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 183
@@ -374,7 +374,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 75,
+                        "durationMicroseconds": 60,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 186
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 54,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 187

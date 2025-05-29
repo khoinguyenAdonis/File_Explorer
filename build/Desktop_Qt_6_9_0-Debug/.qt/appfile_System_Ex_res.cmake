@@ -22,10 +22,10 @@ set(src_and_dest_list
     "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex/icons/resize.svg"
     "/home/khoi/Learn/Qt++/file_System_Ex/icons/qt_logo.svg"
     "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex/icons/qt_logo.svg"
-    "/home/khoi/Learn/Qt++/file_System_Ex/icons/app_icon.svg"
-    "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex/icons/app_icon.svg"
     "/home/khoi/Learn/Qt++/file_System_Ex/icons/trash.png"
     "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex/icons/trash.png"
+    "/home/khoi/Learn/Qt++/file_System_Ex/icons/app_icon.png"
+    "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex/icons/app_icon.png"
 
 )
 set(timestamp_file "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/appfile_System_Ex_res.txt")
