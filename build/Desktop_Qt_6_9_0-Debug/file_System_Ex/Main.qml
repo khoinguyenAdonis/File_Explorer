@@ -84,7 +84,6 @@ ApplicationWindow {
             FileList {
                 id: fileSystemView
                 color: Colors.surface1
-                //onFileClicked: path => root.currentFilePath = path
                 SplitView.preferredWidth: 300
             }
             ViewFile{

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 12,
-                        "durationMicroseconds": 136,
+                        "durationMicroseconds": 155,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 12
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 12,
-                        "durationMicroseconds": 127,
+                        "durationMicroseconds": 190,
                         "errorMessage": "",
                         "functionName": "flags",
                         "line": 13
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 5,
-                        "durationMicroseconds": 63,
+                        "durationMicroseconds": 66,
                         "errorMessage": "Cannot load property currentFilePath from .",
                         "functionName": "getInfoText",
                         "line": 15
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 42,
                         "errorMessage": "",
                         "functionName": "dragWindow",
                         "line": 22
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 64,
                         "errorMessage": "Cannot load property showLineNumbers from .",
                         "functionName": "text",
                         "line": 27
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 50,
+                        "durationMicroseconds": 52,
                         "errorMessage": "Cannot load property showLineNumbers from .",
                         "functionName": "onTriggered",
                         "line": 30
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 51,
                         "errorMessage": "Cannot load property expandPath from .",
                         "functionName": "text",
                         "line": 33
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 41,
                         "errorMessage": "Cannot load property currentFilePath from .",
                         "functionName": "enabled",
                         "line": 35
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 43,
                         "errorMessage": "Cannot load property expandPath from .",
                         "functionName": "onTriggered",
                         "line": 36
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
                         "functionName": "enabled",
                         "line": 40
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 19,
                         "errorMessage": "cannot convert from void to FileList::rootIndex with type QModelIndex",
                         "functionName": "onTriggered",
                         "line": 41
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 59,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "onTriggered",
                         "line": 45
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 44,
                         "errorMessage": "",
                         "functionName": "shortcut",
                         "line": 46
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 26,
+                        "durationMicroseconds": 27,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 58
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "dragWindow",
                         "line": 63
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 193,
+                        "durationMicroseconds": 187,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 74
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 142,
+                        "durationMicroseconds": 147,
                         "errorMessage": "Cannot access value for name navigationView",
                         "functionName": "opacity",
                         "line": 76
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 156,
+                        "durationMicroseconds": 153,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 75
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 87,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 86
@@ -166,10 +166,10 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 45,
                         "errorMessage": "Cannot load property showLineNumbers from .",
                         "functionName": "showLineNumbers",
-                        "line": 98
+                        "line": 97
                     },
                     {
                         "codegenSuccessfull": false,
@@ -177,14 +177,22 @@
                         "durationMicroseconds": 40,
                         "errorMessage": "Cannot load property currentFilePath from .",
                         "functionName": "currentFilePath",
-                        "line": 99
+                        "line": 98
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 34,
                         "errorMessage": "",
                         "functionName": "target",
+                        "line": 104
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"fileClicked\".",
+                        "functionName": "onFileClicked",
                         "line": 105
                     },
                     {
@@ -193,15 +201,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"fileClicked\".",
                         "functionName": "onFileClicked",
-                        "line": 106
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 30,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"fileClicked\".",
-                        "functionName": "onFileClicked",
-                        "line": 106
+                        "line": 105
                     }
                 ],
                 "filepath": "/home/khoi/Learn/Qt++/file_System_Ex/Main.qml"

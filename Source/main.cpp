@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
     QGuiApplication::setWindowIcon(QIcon("icons/app_icon.png"));
     Scanner fileScanner;
-    QString rootPath = "/home/khoi";
+    QString rootPath = "/";
     qDebug() << "Thư mục làm việc hiện tại của ứng dụng là: " << rootPath;
     std::unique_ptr<Directory> scannedRoot = fileScanner.scan_Directory(rootPath, -1);
 
