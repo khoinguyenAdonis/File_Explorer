@@ -1,8 +1,8 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
-#include  "treemodel.h"
-#include "fileeditor.h"
+#include  "Header/treemodel.h"
+#include "Header/fileeditor.h"
 
 int main(int argc, char *argv[])
 {

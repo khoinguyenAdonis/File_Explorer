@@ -1,18 +1,18 @@
 appfile_System_Ex_autogen/timestamp: \
 	/home/khoi/Learn/Qt++/file_System_Ex/CMakeLists.txt \
-	/home/khoi/Learn/Qt++/file_System_Ex/abstractClass.hpp \
+	/home/khoi/Learn/Qt++/file_System_Ex/Header/abstractClass.hpp \
+	/home/khoi/Learn/Qt++/file_System_Ex/Header/file.hpp \
+	/home/khoi/Learn/Qt++/file_System_Ex/Header/fileeditor.h \
+	/home/khoi/Learn/Qt++/file_System_Ex/Header/treemodel.h \
+	/home/khoi/Learn/Qt++/file_System_Ex/Source/file.cpp \
+	/home/khoi/Learn/Qt++/file_System_Ex/Source/fileeditor.cpp \
+	/home/khoi/Learn/Qt++/file_System_Ex/Source/main.cpp \
+	/home/khoi/Learn/Qt++/file_System_Ex/Source/treemodel.cpp \
 	/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appfile_System_Ex_conf.cmake \
 	/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qtc/package-manager/auto-setup.cmake \
 	/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/appfile_System_Ex_autogen/moc_predefs.h \
-	/home/khoi/Learn/Qt++/file_System_Ex/file.cpp \
-	/home/khoi/Learn/Qt++/file_System_Ex/file.hpp \
-	/home/khoi/Learn/Qt++/file_System_Ex/fileeditor.cpp \
-	/home/khoi/Learn/Qt++/file_System_Ex/fileeditor.h \
-	/home/khoi/Learn/Qt++/file_System_Ex/main.cpp \
-	/home/khoi/Learn/Qt++/file_System_Ex/treemodel.cpp \
-	/home/khoi/Learn/Qt++/file_System_Ex/treemodel.h \
 	/home/khoi/Qt/6.9.0/gcc_64/include/QtCore/QAbstractItemModel \
 	/home/khoi/Qt/6.9.0/gcc_64/include/QtCore/QHash \
 	/home/khoi/Qt/6.9.0/gcc_64/include/QtCore/QObject \

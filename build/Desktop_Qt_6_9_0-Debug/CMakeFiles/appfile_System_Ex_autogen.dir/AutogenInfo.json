@@ -1006,6 +1006,8 @@
 		"/home/khoi/Qt/6.9.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"/home/khoi/Qt/6.9.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
 		"/home/khoi/Qt/6.9.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/khoi/Qt/6.9.0/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"/home/khoi/Qt/6.9.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"/home/khoi/Qt/Tools/CMake/share/cmake-3.30/Modules/GNUInstallDirs.cmake",
 		"/home/khoi/Qt/6.9.0/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appfile_System_Ex_conf.cmake"
@@ -1017,27 +1019,27 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/khoi/Learn/Qt++/file_System_Ex/abstractClass.hpp",
+			"/home/khoi/Learn/Qt++/file_System_Ex/Header/abstractClass.hpp",
 			"MU",
-			"EWIEGA46WW/moc_abstractClass.cpp",
+			"3ACODNS4DZ/moc_abstractClass.cpp",
 			null
 		],
 		[
-			"/home/khoi/Learn/Qt++/file_System_Ex/file.hpp",
+			"/home/khoi/Learn/Qt++/file_System_Ex/Header/file.hpp",
 			"MU",
-			"EWIEGA46WW/moc_file.cpp",
+			"3ACODNS4DZ/moc_file.cpp",
 			null
 		],
 		[
-			"/home/khoi/Learn/Qt++/file_System_Ex/fileeditor.h",
+			"/home/khoi/Learn/Qt++/file_System_Ex/Header/fileeditor.h",
 			"MU",
-			"EWIEGA46WW/moc_fileeditor.cpp",
+			"3ACODNS4DZ/moc_fileeditor.cpp",
 			null
 		],
 		[
-			"/home/khoi/Learn/Qt++/file_System_Ex/treemodel.h",
+			"/home/khoi/Learn/Qt++/file_System_Ex/Header/treemodel.h",
 			"MU",
-			"EWIEGA46WW/moc_treemodel.cpp",
+			"3ACODNS4DZ/moc_treemodel.cpp",
 			null
 		]
 	],
@@ -1115,16 +1117,17 @@
 	"MOC_SKIP" : 
 	[
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qrc_appfile_System_Ex_raw_qml_0.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qrc_appfile_System_Ex_raw_qml_0_extra_qmldirs.cpp",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qrc_qmake_file_System_Ex.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_About_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_Editor_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_FileList_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_Main_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_MyMenuBar_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_MyMenu_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_Sidebar_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_ViewFile_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_WindowDragHandler_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/About_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/Editor_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/FileList_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/Main_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/MyMenuBar_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/MyMenu_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/Sidebar_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/ViewFile_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/WindowDragHandler_qml.cpp",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qmlcache_loader.cpp",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/appfile_system_ex_qmltyperegistrations.cpp"
 	],
@@ -1138,26 +1141,35 @@
 	"SETTINGS_FILE" : "/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/appfile_System_Ex_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
-		[ "/home/khoi/Learn/Qt++/file_System_Ex/file.cpp", "MU", null ],
-		[ "/home/khoi/Learn/Qt++/file_System_Ex/fileeditor.cpp", "MU", null ],
-		[ "/home/khoi/Learn/Qt++/file_System_Ex/main.cpp", "MU", null ],
-		[ "/home/khoi/Learn/Qt++/file_System_Ex/treemodel.cpp", "MU", null ]
+		[ "/home/khoi/Learn/Qt++/file_System_Ex/Source/file.cpp", "MU", null ],
+		[
+			"/home/khoi/Learn/Qt++/file_System_Ex/Source/fileeditor.cpp",
+			"MU",
+			null
+		],
+		[ "/home/khoi/Learn/Qt++/file_System_Ex/Source/main.cpp", "MU", null ],
+		[
+			"/home/khoi/Learn/Qt++/file_System_Ex/Source/treemodel.cpp",
+			"MU",
+			null
+		]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
 	"UIC_SKIP" : 
 	[
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qrc_appfile_System_Ex_raw_qml_0.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qrc_appfile_System_Ex_raw_qml_0_extra_qmldirs.cpp",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qrc_qmake_file_System_Ex.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_About_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_Editor_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_FileList_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_Main_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_MyMenuBar_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_MyMenu_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_Sidebar_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_ViewFile_qml.cpp",
-		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_WindowDragHandler_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/About_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/Editor_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/FileList_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/Main_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/MyMenuBar_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/MyMenu_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/Sidebar_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/ViewFile_qml.cpp",
+		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qml/WindowDragHandler_qml.cpp",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.rcc/qmlcache/appfile_System_Ex_qmlcache_loader.cpp",
 		"/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/appfile_system_ex_qmltyperegistrations.cpp"
 	],

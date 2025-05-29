@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "className": "TreeModel",
+            "enums": [
+                {
+                    "isClass": false,
+                    "isFlag": false,
+                    "name": "FileTreeRoles",
+                    "values": [
+                        "NameRole",
+                        "FullPathRole",
+                        "TypeRole"
+                    ]
+                }
+            ],
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "TreeModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractItemModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "treemodel.h",
+    "outputRevision": 69
+}

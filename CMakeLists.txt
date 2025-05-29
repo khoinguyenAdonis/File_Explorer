@@ -9,21 +9,23 @@ find_package(Qt6 REQUIRED COMPONENTS Quick)
 qt_standard_project_setup(REQUIRES 6.8)
 
 qt_add_executable(appfile_System_Ex
-    main.cpp
+
+    "Source/main.cpp"
 )
 
 qt_add_qml_module(appfile_System_Ex
     URI file_System_Ex
     VERSION 1.0
     QML_FILES
-        Main.qml
-        QML_FILES MyMenuBar.qml
-        QML_FILES WindowDragHandler.qml
-        QML_FILES MyMenu.qml
-        QML_FILES About.qml
-        QML_FILES Sidebar.qml
-        QML_FILES Editor.qml
-        QML_FILES FileList.qml
+        "qml/About.qml"
+        "qml/Editor.qml"
+        "qml/FileList.qml"
+        "qml/Main.qml"
+        "qml/MyMenu.qml"
+        "qml/MyMenuBar.qml"
+        "qml/Sidebar.qml"
+        "qml/ViewFile.qml"
+        "qml/WindowDragHandler.qml"
 
     RESOURCES
         "icons/folder.png"
@@ -39,14 +41,14 @@ qt_add_qml_module(appfile_System_Ex
         "icons/app_icon.svg"
         "icons/trash.png"
 
-        SOURCES
-        treemodel.h
-        treemodel.cpp
-        file.hpp
-        abstractClass.hpp
-        SOURCES file.cpp
-        QML_FILES ViewFile.qml
-        SOURCES fileeditor.h fileeditor.cpp
+    SOURCES
+        "Header/treemodel.h"
+        "Source/treemodel.cpp"
+        "Header/file.hpp"
+        "Header/abstractClass.hpp"
+        "Source/file.cpp"
+        "Header/fileeditor.h"
+        "Source/fileeditor.cpp"
 )
 
 

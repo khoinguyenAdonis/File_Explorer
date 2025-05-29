@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/file_System_Ex/">
+    <file alias="qml/qmldir">/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex/qml/qmldir</file>
+  </qresource>
+</RCC>
+
