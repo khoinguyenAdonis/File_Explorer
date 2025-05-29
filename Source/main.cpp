@@ -1,8 +1,7 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
-#include <QCommandLineParser>
-#include  "Header/treemodel.h"
+#include "Header/treemodel.h"
 #include "Header/fileeditor.h"
 #include <QIcon>
 
@@ -11,7 +10,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
     QGuiApplication::setWindowIcon(QIcon("icons/app_icon.png"));
     Scanner fileScanner;
-    QString rootPath = "/";
+    QString rootPath = "/home/khoi";
     qDebug() << "Thư mục làm việc hiện tại của ứng dụng là: " << rootPath;
     std::unique_ptr<Directory> scannedRoot = fileScanner.scan_Directory(rootPath, -1);
 
