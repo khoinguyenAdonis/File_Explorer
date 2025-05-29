@@ -1,0 +1,14 @@
+-rootPath
+/home/khoi/Learn/Qt++/file_System_Ex
+-cmake-output
+-output-file
+/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/qml_imports/appfile_System_Ex_conf.cmake
+-importPath
+/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/file_System_Ex
+-importPath
+/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug
+-importPath
+/home/khoi/Qt/6.9.0/gcc_64/qml
+-qrcFiles
+/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/qmake_file_System_Ex.qrc
+/home/khoi/Learn/Qt++/file_System_Ex/build/Desktop_Qt_6_9_0-Debug/.qt/rcc/appfile_System_Ex_raw_qml_0.qrc

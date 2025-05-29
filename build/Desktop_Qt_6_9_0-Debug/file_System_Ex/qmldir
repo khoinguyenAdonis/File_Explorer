@@ -1,0 +1,13 @@
+module file_System_Ex
+typeinfo appfile_System_Ex.qmltypes
+prefer :/qt/qml/file_System_Ex/
+Main 1.0 Main.qml
+MyMenuBar 1.0 MyMenuBar.qml
+WindowDragHandler 1.0 WindowDragHandler.qml
+MyMenu 1.0 MyMenu.qml
+About 1.0 About.qml
+Sidebar 1.0 Sidebar.qml
+Editor 1.0 Editor.qml
+FileList 1.0 FileList.qml
+ViewFile 1.0 ViewFile.qml
+

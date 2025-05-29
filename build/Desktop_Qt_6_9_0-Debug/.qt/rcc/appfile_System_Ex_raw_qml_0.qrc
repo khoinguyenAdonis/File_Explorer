@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="/qt/qml/file_System_Ex/">
+    <file alias="Main.qml">/home/khoi/Learn/Qt++/file_System_Ex/Main.qml</file>
+    <file alias="MyMenuBar.qml">/home/khoi/Learn/Qt++/file_System_Ex/MyMenuBar.qml</file>
+    <file alias="WindowDragHandler.qml">/home/khoi/Learn/Qt++/file_System_Ex/WindowDragHandler.qml</file>
+    <file alias="MyMenu.qml">/home/khoi/Learn/Qt++/file_System_Ex/MyMenu.qml</file>
+    <file alias="About.qml">/home/khoi/Learn/Qt++/file_System_Ex/About.qml</file>
+    <file alias="Sidebar.qml">/home/khoi/Learn/Qt++/file_System_Ex/Sidebar.qml</file>
+    <file alias="Editor.qml">/home/khoi/Learn/Qt++/file_System_Ex/Editor.qml</file>
+    <file alias="FileList.qml">/home/khoi/Learn/Qt++/file_System_Ex/FileList.qml</file>
+    <file alias="ViewFile.qml">/home/khoi/Learn/Qt++/file_System_Ex/ViewFile.qml</file>
+    <file alias="icons/folder.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/folder.png</file>
+    <file alias="icons/folder_open.svg">/home/khoi/Learn/Qt++/file_System_Ex/icons/folder_open.svg</file>
+    <file alias="icons/generic_file.svg">/home/khoi/Learn/Qt++/file_System_Ex/icons/generic_file.svg</file>
+    <file alias="icons/github-logo.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/github-logo.png</file>
+    <file alias="icons/information.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/information.png</file>
+    <file alias="icons/cutting.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/cutting.png</file>
+    <file alias="icons/copy.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/copy.png</file>
+    <file alias="icons/paste.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/paste.png</file>
+    <file alias="icons/resize.svg">/home/khoi/Learn/Qt++/file_System_Ex/icons/resize.svg</file>
+    <file alias="icons/qt_logo.svg">/home/khoi/Learn/Qt++/file_System_Ex/icons/qt_logo.svg</file>
+    <file alias="icons/app_icon.svg">/home/khoi/Learn/Qt++/file_System_Ex/icons/app_icon.svg</file>
+    <file alias="icons/trash.png">/home/khoi/Learn/Qt++/file_System_Ex/icons/trash.png</file>
+  </qresource>
+</RCC>
+

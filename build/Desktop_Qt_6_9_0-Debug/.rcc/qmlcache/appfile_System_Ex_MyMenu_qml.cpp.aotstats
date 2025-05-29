@@ -1,0 +1,100 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 19365,
+                        "errorMessage": "Cannot access value for name Colors",
+                        "functionName": "color",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "visible",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "Cannot access value for name Colors",
+                        "functionName": "color",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 41,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 72,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 20,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "Cannot access value for name Colors",
+                        "functionName": "color",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "Cannot access value for name Colors",
+                        "functionName": "color",
+                        "line": 39
+                    }
+                ],
+                "filepath": "/home/khoi/Learn/Qt++/file_System_Ex/MyMenu.qml"
+            }
+        ],
+        "moduleId": "file_System_Ex(appfile_System_Ex)"
+    }
+]

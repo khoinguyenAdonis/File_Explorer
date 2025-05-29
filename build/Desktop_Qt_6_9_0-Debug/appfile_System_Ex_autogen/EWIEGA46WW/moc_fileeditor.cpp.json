@@ -1,0 +1,81 @@
+{
+    "classes": [
+        {
+            "className": "fileEditor",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "readFileToRam",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "contents",
+                    "notify": "contentsChanged",
+                    "read": "contents",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false,
+                    "write": "setContents"
+                }
+            ],
+            "qualifiedClassName": "fileEditor",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "contentsChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "content",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "fileContentReady",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "errorMessage",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "fileReadError",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "fileeditor.h",
+    "outputRevision": 69
+}
