@@ -7,7 +7,7 @@ Rectangle {
     Layout.fillWidth: true
     Layout.fillHeight: true
     color: "white"
-    border.color: "lightgray"
+    border.color: "darkblue"
     border.width: 1
 
     property alias labelText: myLabel.text
