@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 539,
+                        "durationMicroseconds": 380,
                         "errorMessage": "Cannot access value for name fileTreeModel",
                         "functionName": "model",
                         "line": 15
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 495,
+                        "durationMicroseconds": 339,
                         "errorMessage": "Cannot access value for name fileTreeModel",
                         "functionName": "rootIndex",
                         "line": 16
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 13
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 44,
                         "errorMessage": "Cannot retrieve a non-object type by ID: label",
                         "functionName": "implicitWidth",
                         "line": 20
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 29,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 13,
                         "errorMessage": "Cannot retrieve a non-object type by ID: label",
                         "functionName": "implicitHeight",
                         "line": 21
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 47,
                         "errorMessage": "Cannot access value for name padding",
                         "functionName": "x",
                         "line": 38
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 29,
                         "errorMessage": "Cannot access value for name isTreeNode",
                         "functionName": "visible",
                         "line": 40
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 76,
+                        "durationMicroseconds": 63,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 39
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 37,
-                        "durationMicroseconds": 161,
+                        "durationMicroseconds": 101,
                         "errorMessage": "Cannot access value for name treeView",
                         "functionName": "onSingleTapped",
                         "line": 45
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 132,
+                        "durationMicroseconds": 85,
                         "errorMessage": "Cannot access value for name model",
                         "functionName": "enabled",
                         "line": 60
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 38,
-                        "durationMicroseconds": 255,
+                        "durationMicroseconds": 161,
                         "errorMessage": "Cannot access value for name fileEditor",
                         "functionName": "onSingleTapped",
                         "line": 61
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 38,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 33,
                         "errorMessage": "",
                         "functionName": "onSingleTapped",
                         "line": 61
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 88,
                         "errorMessage": "Cannot access value for name Colors",
                         "functionName": "color",
                         "line": 77
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 18,
                         "errorMessage": "Cannot access value for name fileSystemTreeView",
                         "functionName": "opacity",
                         "line": 78

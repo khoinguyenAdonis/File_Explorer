@@ -26,18 +26,17 @@ int Directory::indexOfChild(const File_Sys_Entry* child) const {
             return i;
         }
     }
-    return -1; // Không tìm thấy
+    return -1; 
 }
 
 int Directory::row() const{
     if (m_parentItem) {
-        // Cha của một Directory cũng là một Directory
         Directory* parentDir = static_cast<Directory*>(m_parentItem);
         if (parentDir) {
             return parentDir->indexOfChild(this);
         }
     }
-    // Nếu là root của cây được quét (gốc của model), hàng của nó là 0.
+
     return 0;
 }
 
@@ -54,7 +53,7 @@ void Directory::add_Child(std::unique_ptr<File_Sys_Entry> child) {
 File_Sys_Entry* Directory::child(int row) const {
     if (row < 0 || row >= m_children.size())
         return nullptr;
-    return m_children.at(row).get(); // Trả về con trỏ thô
+    return m_children.at(row).get();
 }
 
 int Directory::childCount() const {
@@ -84,9 +83,7 @@ std::string Scanner::getBasename(const std::string& dir_path) const{
     return dir_path.substr(lastSlash + 1);
 }
 
-// Implementations for Scanner methods (in .cpp)
 std::unique_ptr<Directory> Scanner::scan_Directory(const QString& dir_path, int max_depth) {
-    //QFileInfo rootInfo(dir_path);
     struct stat statbuf;
     const char * Path = dir_path.toUtf8().constData();
 
@@ -96,7 +93,7 @@ std::unique_ptr<Directory> Scanner::scan_Directory(const QString& dir_path, int 
     }
     QString fileName = QString::fromStdString(getBasename(Path));
     auto root = std::make_unique<Directory>(fileName,QString::fromUtf8(Path), statbuf.st_mode,nullptr);
-    populateDirectory(root.get(), max_depth, 0); // Bắt đầu từ depth 0
+    populateDirectory(root.get(), max_depth, 0);
     return root;
 }
 

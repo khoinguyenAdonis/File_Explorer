@@ -58,7 +58,6 @@ ApplicationWindow {
         anchors.fill: parent
         spacing: 0
 
-        //Stores the buttons that navigate the application.
         Sidebar {
             id: sidebar
             dragWindow: root
@@ -66,11 +65,10 @@ ApplicationWindow {
             Layout.fillHeight: true
         }
 
-        // Allows resizing parts of the UI.
         SplitView {
             Layout.fillWidth: true
             Layout.fillHeight: true
-            // Customized handle to drag between the Navigation and the Editor.
+
             handle: Rectangle {
                 implicitWidth: 10
                 color: SplitHandle.pressed ? Colors.color2 : Colors.background
@@ -87,9 +85,11 @@ ApplicationWindow {
                 id: fileSystemView
                 color: Colors.surface1
                 //onFileClicked: path => root.currentFilePath = path
+                SplitView.preferredWidth: 300
             }
             ViewFile{
                 id : viewFile
+                SplitView.preferredWidth: 800
             }
         }
 

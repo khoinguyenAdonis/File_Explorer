@@ -3,9 +3,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include <iostream>
-#include <QFile>
-#include <QTextStream>
 
 fileEditor::fileEditor(QObject *parent)
     : QObject{parent}
@@ -46,7 +43,7 @@ void fileEditor::readFileToRam(const QString &filePath)
     int fileSize = st.st_size;
     char* mapped_memory = static_cast<char*>(mmap(NULL, fileSize, PROT_READ, MAP_PRIVATE, fd, 0));
     if (mapped_memory == MAP_FAILED) {
-        std::cerr << "Lỗi mmap." << std::endl;
+        emit fileReadError("error mmap" + filePath);
         close(fd);
         return;
     }
